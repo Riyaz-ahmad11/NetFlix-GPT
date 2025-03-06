@@ -6,7 +6,7 @@ Netflix GPT is a React-based application that integrates movie recommendations f
 
 ### Authentication
 - Login/Sign Up using Firebase
-- Form validation using `useRef` Hook
+- Form validation using Firebase
 - Update profile details
 - Sign out functionality
 - Redirect users based on authentication status
